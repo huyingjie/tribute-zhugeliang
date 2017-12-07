@@ -2,10 +2,13 @@
 
 a Chinese statesman, military strategist, writer, engineer and inventor
 
-<center>![](img/zhugeliang.jpg)
+<p align="center"> 
 
-<a href = "http://zhugeliang.yingjiehu.com/">Live website</a>
+<img src="img/zhugeliang.jpg" alt="zhuge liang"><br>
 
-<a href = "https://www.patreon.com/yingjiehu">Become a patreon</a>
+<a href = "http://zhugeliang.yingjiehu.com/">Live website</a><br>
 
-</center>
+<a href = "https://www.patreon.com/yingjiehu">Become a patreon</a><br>
+
+</p>
+
